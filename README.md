@@ -1,3 +1,3 @@
 # CSS-e-SASS-flexbox-grid-
 
-Esse repositório foi criado para o estudo de elementos do CSS, como flexbox, grid layout..
+Esse repositório tem como objetivo hospedar o resultado de um projeto realizado durante o decorrer do curso CSS and SASS da plataforma udemy.
